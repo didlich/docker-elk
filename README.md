@@ -175,3 +175,7 @@ elasticsearch:
 ```
 
 This will store elasticsearch data inside `/path/to/storage`.
+
+= Test Logstash
+
+http://grokconstructor.appspot.com
